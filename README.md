@@ -1,6 +1,7 @@
-## Hi there 👋
 
-<!--
+
+<!--![kevin-spencer-percy-spencer (3)](https://github.com/user-attachments/assets/81ec7ad6-70ba-4c6f-bdc7-cb35dd17c931)
+
 **smokesyrup/smokesyrup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
